@@ -1,0 +1,32 @@
+[
+    {
+        "product_title": "Hot New Releases in Music",
+        "product_rank": "#1",
+        "product_description": "To The Faithful Departed",
+        "product_page_url": "https://www.amazon.in/Faithful-Departed-Cranberries/dp/B0CG6QF4JM/ref=zg_bsnr_g_music_sccl_1/000-0000000-0000000?psc=1",
+        "product_image_url": "https://images-eu.ssl-images-amazon.com/images/I/71zuPrrq6sL._AC_UL300_SR300,200_.jpg",
+        "product_rating": "4.7 out of 5 stars",
+        "total_rated_users": "317",
+        "product_price": "₹3,495.00"
+    },
+    {
+        "product_title": "Hot New Releases in Music",
+        "product_rank": "#2",
+        "product_description": "Hackney Diamonds",
+        "product_page_url": "https://www.amazon.in/Hackney-Diamonds-Rolling-Stones/dp/B0CGXSCH6D/ref=zg_bsnr_g_music_sccl_2/000-0000000-0000000?psc=1",
+        "product_image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1USHJAH5nL._AC_UL300_SR300,200_.jpg",
+        "product_rating": "4.7 out of 5 stars",
+        "total_rated_users": "2,443",
+        "product_price": null
+    },
+    {
+        "product_title": "Hot New Releases in Music",
+        "product_rank": "#3",
+        "product_description": "To the Faithful Departed Deluxe 2LP",
+        "product_page_url": "https://www.amazon.in/Faithful-Departed-Deluxe-2LP/dp/B0C5SFKHTG/ref=zg_bsnr_g_music_sccl_3/000-0000000-0000000?psc=1",
+        "product_image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PK3pLMzaL._AC_UL300_SR300,200_.jpg",
+        "product_rating": "4.7 out of 5 stars",
+        "total_rated_users": "317",
+        "product_price": "₹5,495.00"
+    }
+]
